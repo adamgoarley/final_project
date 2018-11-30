@@ -544,7 +544,7 @@ input, textarea
 #buttons
 {
 	display: flex;
-	flex: end;
+	justify-content: flex-end;
 	flex-direction: row;
 	justify-content: space-between;
 	padding-right: 20px;
