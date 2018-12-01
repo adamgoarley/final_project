@@ -1,6 +1,6 @@
 # final_project
 
-#Doug Beatty and Sons Website
+# Doug Beatty and Sons Website
 
 This is our 3-page website about the Doug Beatty and Sons a company located near Arthur Ontario and has recently moved to the web to help their client base.
 
@@ -12,18 +12,19 @@ This is our 3-page website about the Doug Beatty and Sons a company located near
 4. It explores the founding of DBS 
 5. Where to find us and get getting in contact with us
 
-#Built With
+# Built With
 
 CSS
 HTML
 
-#Authors
+# Authors
 
 *Lucas Beatty*
+
 *Adam Goarley*
 
 
-#License
+#L icense
 
 This product is owned by Doug Beatty and Sons
 
